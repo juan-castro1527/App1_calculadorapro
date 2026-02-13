@@ -9,3 +9,15 @@ C:\JUAN 24574\pp4\pp4\bin\Debug\pp4.xml
 C:\JUAN 24574\pp4\pp4\obj\Debug\pp4.exe
 C:\JUAN 24574\pp4\pp4\obj\Debug\pp4.xml
 C:\JUAN 24574\pp4\pp4\obj\Debug\pp4.pdb
+C:\Users\win512\Downloads\App1_calculadorapro-main\pp4\pp4\bin\Debug\pp4.exe.config
+C:\Users\win512\Downloads\App1_calculadorapro-main\pp4\pp4\bin\Debug\pp4.exe
+C:\Users\win512\Downloads\App1_calculadorapro-main\pp4\pp4\bin\Debug\pp4.pdb
+C:\Users\win512\Downloads\App1_calculadorapro-main\pp4\pp4\bin\Debug\pp4.xml
+C:\Users\win512\Downloads\App1_calculadorapro-main\pp4\pp4\obj\Debug\pp4.vbprojAssemblyReference.cache
+C:\Users\win512\Downloads\App1_calculadorapro-main\pp4\pp4\obj\Debug\pp4.Form1.resources
+C:\Users\win512\Downloads\App1_calculadorapro-main\pp4\pp4\obj\Debug\pp4.Resources.resources
+C:\Users\win512\Downloads\App1_calculadorapro-main\pp4\pp4\obj\Debug\pp4.vbproj.GenerateResource.cache
+C:\Users\win512\Downloads\App1_calculadorapro-main\pp4\pp4\obj\Debug\pp4.vbproj.CoreCompileInputs.cache
+C:\Users\win512\Downloads\App1_calculadorapro-main\pp4\pp4\obj\Debug\pp4.exe
+C:\Users\win512\Downloads\App1_calculadorapro-main\pp4\pp4\obj\Debug\pp4.xml
+C:\Users\win512\Downloads\App1_calculadorapro-main\pp4\pp4\obj\Debug\pp4.pdb
