@@ -1,0 +1,12 @@
+C:\Users\win512\Documents\juan\calculadora 2\calculadora 2\bin\Debug\calculadora 2.exe.config
+C:\Users\win512\Documents\juan\calculadora 2\calculadora 2\bin\Debug\calculadora 2.exe
+C:\Users\win512\Documents\juan\calculadora 2\calculadora 2\bin\Debug\calculadora 2.pdb
+C:\Users\win512\Documents\juan\calculadora 2\calculadora 2\bin\Debug\calculadora 2.xml
+C:\Users\win512\Documents\juan\calculadora 2\calculadora 2\obj\Debug\calculadora 2.vbprojAssemblyReference.cache
+C:\Users\win512\Documents\juan\calculadora 2\calculadora 2\obj\Debug\calculadora_2.Form1.resources
+C:\Users\win512\Documents\juan\calculadora 2\calculadora 2\obj\Debug\calculadora_2.Resources.resources
+C:\Users\win512\Documents\juan\calculadora 2\calculadora 2\obj\Debug\calculadora 2.vbproj.GenerateResource.cache
+C:\Users\win512\Documents\juan\calculadora 2\calculadora 2\obj\Debug\calculadora 2.vbproj.CoreCompileInputs.cache
+C:\Users\win512\Documents\juan\calculadora 2\calculadora 2\obj\Debug\calculadora 2.exe
+C:\Users\win512\Documents\juan\calculadora 2\calculadora 2\obj\Debug\calculadora 2.xml
+C:\Users\win512\Documents\juan\calculadora 2\calculadora 2\obj\Debug\calculadora 2.pdb
